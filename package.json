@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url https://www.theopcoder.xyz/"
+    "build": "parcel build src/index.html --public-url https://theopcoder.xyz/"
   },
   "repository": {
     "type": "git",
